@@ -1,0 +1,8 @@
+{"intents":  [
+  { "tag" : "approve",
+    "patterns" : ["just do it", "fine", "yes", "definitely", "of course", "sure", "yeah", "do it", "okay", "ok", "yup", "absolutely", "why not", "probably", "why don't", "yep", "certainly"]
+  },
+  { "tag" : "deny",
+    "patterns" : ["", "stop", "don't", "no", "not now", "not yet", "do not", "no thanks", "don't do it", "fuck off", "go away", "shut up", "go to hell", "not right now", "stop it", "deny", "do not do it", "definitely not", "probably not", "of course not", "absolutely not", "nah", "nope"]
+  }
+]}
