@@ -1,4 +1,4 @@
-*The GUI is inspired by: https://github.com/roshan9419/PersonalAssistantChatbot
+*The GUI was inspired by: https://github.com/roshan9419/PersonalAssistantChatbot
 
 ### Features of Smart Bot: 
   + Do basic conversations (greetings, jokes,...)
