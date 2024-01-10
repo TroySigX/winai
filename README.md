@@ -22,3 +22,6 @@
 
 ### Minor background features:
   + Automatically adjust volume
+
+### Get Started:
+Run `py smartbot.py`
